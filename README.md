@@ -1,2 +1,23 @@
-# Predictive_ADC_simulation
-This MATLAB-based graphical user interface (GUI) provides a comprehensive simulation environment for analyzing the behavior of Predictive Analog-to-Digital Converters (ADCs). The tool allows users to model the ADC architecture and observe system performance through both time-domain and frequency-domain analysis.
+Predictive ADC Simulator (MATLAB GUI)
+This repository contains a specialized MATLAB-based simulation tool designed for modeling and analyzing Predictive Analog-to-Digital Converters. It provides a high-level interface to evaluate how hardware constraints and prediction algorithms impact ADC performance.
+
+🚀 Features
+
+Customizable Hardware Parameters: Adjust sub-ADC and sub-DAC resolutions (bits).
+Define sampling rates and reference voltages.
+Prediction Algorithms: Toggle between different prediction methods to compare tracking accuracy.
+Time-Domain Analysis: Visualize real-time signal tracking and the behavior of internal nodes.
+Frequency-Domain Analysis: Perform FFTs on the output to analyze SNR, ENOB, and harmonic distortion.
+Intermediate Node Probing: Access waveforms from internal stages of the predictive loop for debugging and optimization.
+
+🛠 Installation & Usage
+
+Clone the repository: git clone https://github.com/najjarzadegan/Predictive_ADC_simulation.git
+Open MATLAB and navigate to the project folder.
+Run the application: Predictive_Two_step.mlapp
+Configure & Simulate: Enter your desired resolutions and methods, then click Run Simulation.
+
+📋 Requirements
+
+MATLAB (R2020a or later recommended)
+Signal Processing Toolbox
