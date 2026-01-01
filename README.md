@@ -21,3 +21,11 @@ Configure & Simulate: Enter your desired resolutions and methods, then click Run
 
 MATLAB (R2020a or later recommended)
 Signal Processing Toolbox
+
+## Citation
+
+If you use this simulator or the associated research in your work, please cite it as follows:
+
+1. **Software:** Mohammad Najjarzadegan. (2026). *Predictive ADC Simulator MATLAB GUI* (Version 1.0) MATLAB. GitHub.(https://github.com/najjarzadegan/Predictive_ADC_simulation)
+2. **Journal Paper:** Mohammad Najjarzadegan. (Submitted 2026). A Predictive Analog-to-Digital Converter (ADC) Architecture: Analysis, Design, and Application to Battery Cell Voltage Monitoring. *IEEE Transactions on Instrumentation and Measurement*.
+3. **PhD Thesis:** Mohammad Najjarzadegan. (2026). *A high-performance multi-channel impedance spectroscopy system for fuel cell and battery diagnostic* PhD dissertation, University of British Columbia.
