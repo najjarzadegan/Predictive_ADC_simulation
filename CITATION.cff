@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Najjarzadegan"
+  given-names: "Mohammad"
+title: "Predictive ADC Simulator MATLAB GUI"
+version: 1.0.0
+date-released: 2026-01-01
+url: "https://github.com/najjarzadegan/Predictive_ADC_simulation"
+preferred-citation:
+  type: article
+  authors:
+  - family-names: "Najjarzadegan"
+    given-names: "Mohammad"
+  title: "A Predictive Analog-to-Digital Converter (ADC) Architecture: Analysis, Design, and Application to Battery Cell Voltage Monitoring"
+  journal: "IEEE Transactions on Instrumentation and Measurement"
+  year: 2026
+  note: "Submitted for publication"
+references:
+  - type: thesis
+    thesis-type: "PhD dissertation"
+    authors:
+    - family-names: "Najjarzadegan"
+      given-names: "Mohammad"
+    title: "A high-performance multi-channel impedance spectroscopy system for fuel cell and battery diagnostic"
+    school: "University of British Columbia"
+    year: 2026
